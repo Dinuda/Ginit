@@ -1,0 +1,2 @@
+# Ginit
+Automated git init
